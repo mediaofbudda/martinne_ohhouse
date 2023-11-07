@@ -1,10 +1,13 @@
-{ "API_contents" : [{
+{ 
+"API_contents" : [
+{
 "cate_2": "욕실용품",
 "contents_id" : "9778",
 "contents_title" : "물 곰팡이 냄새 그만! 욕실 타일 청소는 이렇게 하세요",
 "nickname" : "살림의정석",
 "img_url" : "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/169363277903373410.JPG?gif=1&w=720"
-},{
+},
+{
 "cate_2": "침구",
 "contents_id" : "8374",
 "contents_title" : "좁은 곳도 문제 없어! 겨울 이불 정리의 모든 것",
@@ -178,4 +181,6 @@
 "contents_title" : "크리스마스 로망🎄 지금 바로 더현대 가야 하는 이유",
 "nickname" : "오늘의집 에디터",
 "img_url" : "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/169898935182424735.jpeg?gif=1&w=720&webp=1"
-},]}
+}
+]
+}
